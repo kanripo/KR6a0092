@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 十支居士八城人經
+#+DATE: 2015-08-30 19:30:39.713067
+#+PROPERTY: JUAN 0
