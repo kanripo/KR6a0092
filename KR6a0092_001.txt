@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:30:39.932504
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:35
 #+TITLE: 十支居士八城人經
 #+PROPERTY: CBETA_ID T01n0092
 #+PROPERTY: ID KR6a0092
